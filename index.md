@@ -79,6 +79,8 @@ Finnish – native<br/>
 English – fluent<br/>
 Swedish – basic
 
+<br/>Last updated: March 2024<br/><br/>
+
 
 <!-- ### Footer
 
