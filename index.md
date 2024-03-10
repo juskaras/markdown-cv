@@ -47,8 +47,6 @@ juska.soljento@helsinki.fi – +358 40 547 2163
 
 ## Publications
 
-### Journal Articles
-
 `2023`
 **J. E. Soljento**, S. W. Good, A. Osmane, and E. K. J. Kilpua (2023), "Imbalanced Turbulence Modified by Large-scale Velocity Shears in the Solar Wind", *Astrophysical Journal Letters*, **946**, L46, doi: [10.3847/2041-8213/acc071](https://doi.org/10.3847/2041-8213/acc071).
 
