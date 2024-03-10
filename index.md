@@ -12,7 +12,7 @@ FI-00014 University of Helsinki, Finland<br/>
 juska.soljento@helsinki.fi &#124; +358 40 547 2163
 
 <div id="webaddress"> 
-  <a href="https://blogs.helsinki.fi/spacephysics"><i class="fa-solid fa-users"></i> blogs.helsinki.fi/spacephysics (group)</a> 
+  <a href="https://www.linkedin.com/in/juskasoljento"><i class="fa-brands fa-linkedin"></i> juskasoljento</a>
   | <a href="https://orcid.org/0000-0003-2495-8881"><i class="fa-brands fa-orcid"></i> 0000-0003-2495-8881</a>
 </div>
 
