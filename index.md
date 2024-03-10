@@ -44,7 +44,6 @@ juska.soljento@helsinki.fi | +358 40 547 2163
 **Private Tutor (Physics and Mathematics)**, *Uplus Oy*, Helsinki, Finland.
 
 
-
 ## Publications
 
 `2023`
@@ -59,7 +58,6 @@ D. E. Morosan, **J. E. Räsänen**, A. Kumari, E. K. J. Kilpua, M. M. Bisi, B. D
 
 `2020`
 D. E. Morosan, E. Palmerio, **J. E. Räsänen**, E. K. J. Kilpua, J. Magdalenić, B. J. Lynch, A. Kumari, J. Pomoell, and M. Palmroth (2020), "Electron Acceleration and Radio Emission Following the Early Interaction of Two Coronal Mass Ejections", *Astronomy & Astrophysics*, **642**, A151, doi: [10.1051/0004-6361/202038801](https://doi.org/10.1051/0004-6361/202038801).
-
 
 
 ## Grants and funding
