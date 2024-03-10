@@ -9,7 +9,7 @@ Space Physics Group, Department of Physics<br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
 FI-00014 University of Helsinki, Finland<br/>
 
-<br/>juska.soljento@helsinki.fi | +358 40 547 2163
+juska.soljento@helsinki.fi &#124; +358 40 547 2163
 
 <div id="webaddress"> 
   <a href="https://blogs.helsinki.fi/spacephysics"><i class="fa-solid fa-users"></i> blogs.helsinki.fi/spacephysics (group)</a> 
