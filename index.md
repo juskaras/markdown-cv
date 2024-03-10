@@ -73,8 +73,15 @@ D. E. Morosan, E. Palmerio, **J. E. Räsänen**, E. K. J. Kilpua, J. Magdalenić
 **Grant for PhD work**, *Finnish Cultural Foundation*, Finland, 28 000€.
 
 
+## Languages
+
+Finnish – native<br/>
+English – fluent<br/>
+Swedish – basic
+
+
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2024 -->
 
 
