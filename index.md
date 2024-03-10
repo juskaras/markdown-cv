@@ -9,7 +9,7 @@ Space Physics Group, Department of Physics<br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
 FI-00014 University of Helsinki, Finland<br/>
 
-juska.soljento@helsinki.fi – +358 40 547 2163
+juska.soljento@helsinki.fi | +358 40 547 2163
 
 <div id="webaddress"> 
   <a href="https://blogs.helsinki.fi/spacephysics"><i class="fa-solid fa-users"></i> blogs.helsinki.fi/spacephysics (group)</a> 
@@ -19,28 +19,28 @@ juska.soljento@helsinki.fi – +358 40 547 2163
 
 ## Education
 
-`04/2021–`
+`2021–present`
 **PhD, Doctoral Programme in Particle Physics and Universe Sciences**, *University of Helsinki*, Helsinki, Finland.
 
-`09/2016–06/2021`
+`2016–2021`
 **MSc, Master's Programme in Particle Physics and Astrophysical Sciences**, *University of Helsinki*, Helsinki, Finland.
 
-`09/2016–10/2020`
+`2016–2020`
 **BSc, Theoretical Physics (Physics and Mathematics minors)**, *University of Helsinki*, Helsinki, Finland.
 
 
 ## Experience
 
-`04/2021-present`
+`2021-present`
 **Doctoral Researcher**, *Space Physics Group, Department of Physics, University of Helsinki*, Helsinki, Finland.
 
-`01/2020–06/2020`
+`2020`
 **Research Assistant**, *Space Physics Group, Department of Physics, University of Helsinki*, Helsinki, Finland.
 
-`06/2019–07/2019`
+`2019`
 **Summer Intern**, *Space Physics Group, Department of Physics, University of Helsinki*, Helsinki, Finland.
 
-`02/2019–12/2019`
+`2019`
 **Private Tutor (Physics and Mathematics)**, *Uplus Oy*, Helsinki, Finland.
 
 
