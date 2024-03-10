@@ -1,87 +1,76 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Juska Soljento's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Juska Soljento
+PhD Researcher, University of Helsinki
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+Space Physics Group, Department of Physics<br/>
+P.O. Box 68 (Pietari Kalmin katu 5)<br/>
+FI-00014 University of Helsinki, Finland<br/>
+
+juska.soljento@helsinki.fi – +358 40 547 2163
+
+<div id="webaddress"> 
+  <a href="https://blogs.helsinki.fi/spacephysics"><i class="fa-solid fa-users"></i> blogs.helsinki.fi/spacephysics (group)</a> 
+  | <a href="https://orcid.org/0000-0003-2495-8881"><i class="fa-brands fa-orcid"></i> 0000-0003-2495-8881</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`04/2021–`
+**PhD, Doctoral Programme in Particle Physics and Universe Sciences**, *University of Helsinki*, Helsinki, Finland.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`09/2016–06/2021`
+**MSc, Master's Programme in Particle Physics and Astrophysical Sciences**, *University of Helsinki*, Helsinki, Finland.
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`09/2016–10/2020`
+**BSc, Theoretical Physics (Physics and Mathematics minors)**, *University of Helsinki*, Helsinki, Finland.
 
 
+## Experience
 
-## Awards
+`04/2021-present`
+**Doctoral Researcher**, *Space Physics Group, Department of Physics, University of Helsinki*, Helsinki, Finland.
 
-`2012`
-President, *Royal Society*, London, UK
+`01/2020–06/2020`
+**Research Assistant**, *Space Physics Group, Department of Physics, University of Helsinki*, Helsinki, Finland.
 
-Associate, *French Academy of Science*, Paris, France
+`06/2019–07/2019`
+**Summer Intern**, *Space Physics Group, Department of Physics, University of Helsinki*, Helsinki, Finland.
+
+`02/2019–12/2019`
+**Private Tutor (Physics and Mathematics)**, *Uplus Oy*, Helsinki, Finland.
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Journal Articles
 
-### Journals
+`2023`
+**J. E. Soljento**, S. W. Good, A. Osmane, and E. K. J. Kilpua (2023), "Imbalanced Turbulence Modified by Large-scale Velocity Shears in the Solar Wind", *Astrophysical Journal Letters*, **946**, L46, doi: [10.3847/2041-8213/acc071](https://doi.org/10.3847/2041-8213/acc071).
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2022`
+E. K. J. Kilpua, S. W. Good, M. Ala-Lahti, A. Osmane, S. Pal, **J. E. Soljento**, L. L. Zhao, and S. Bale (2022), "Structure and Fluctuations of a Slow ICME Sheath Observed at 0.5 au by the Parker Solar Probe", *Astronomy & Astrophysics*, **663**, A108, doi: [10.1051/0004-6361/202142191](https://doi.org/10.1051/0004-6361/202142191).
 
-`1669`
-Lectiones opticæ.
+S. W. Good, L. M. Hatakka, M. Ala-Lahti, **J. E. Soljento**, A. Osmane, and E. K. J. Kilpua (2022), "Cross Helicity of Interplanetary Coronal Mass Ejections at 1 au", *Monthly Notices of the Royal Astronomical Society*, **514**, 2425–2433, doi: [10.1093/mnras/stac1388](https://doi.org/10.1093/mnras/stac1388).
 
-etc. etc. etc.
+D. E. Morosan, **J. E. Räsänen**, A. Kumari, E. K. J. Kilpua, M. M. Bisi, B. Dabrowski, A. Krankowski, J. Magdalenić, G. Mann, H. Rothkaehl, C. Vocks, and P. Zucca (2022), "Exploring the Circular Polarisation of Low-frequency Solar Radio Bursts with LOFAR", *Solar Physics*, **297**, 47, doi: [10.1007/s11207-022-01976-9](https://doi.org/10.1007/s11207-022-01976-9).
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2020`
+D. E. Morosan, E. Palmerio, **J. E. Räsänen**, E. K. J. Kilpua, J. Magdalenić, B. J. Lynch, A. Kumari, J. Pomoell, and M. Palmroth (2020), "Electron Acceleration and Radio Emission Following the Early Interaction of Two Coronal Mass Ejections", *Astronomy & Astrophysics*, **642**, A151, doi: [10.1051/0004-6361/202038801](https://doi.org/10.1051/0004-6361/202038801).
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
+## Grants and funding
 
-- Warden
-- Minted coins
+`2022`
+**Grant for PhD work**, *Finnish Cultural Foundation*, Finland, 26 000€.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2023`
+**Grant for PhD work**, *Finnish Cultural Foundation*, Finland, 28 000€.
 
 
 <!-- ### Footer
