@@ -23,7 +23,7 @@ juska.soljento@helsinki.fi – +358 40 547 2163
 **PhD, Doctoral Programme in Particle Physics and Universe Sciences**, *University of Helsinki*, Helsinki, Finland.
 
 `09/2016–06/2021`
-**MSc, Master's Programme in Particle Physics and Astrophysical Sciences**, *University of Helsinki*, Helsinki, Finland.
+**MSc, Master's in Particle Physics and Astrophysical Sciences**, *University of Helsinki*, Helsinki, Finland.
 
 `09/2016–10/2020`
 **BSc, Theoretical Physics (Physics and Mathematics minors)**, *University of Helsinki*, Helsinki, Finland.
