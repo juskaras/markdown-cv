@@ -16,6 +16,8 @@ juska.soljento@helsinki.fi &#124; +358 40 547 2163
   | <a href="https://orcid.org/0000-0003-2495-8881"><i class="fa-brands fa-orcid"></i> 0000-0003-2495-8881</a>
 </div>
 
+
+
 ## Education
 
 `2021–present`
@@ -26,6 +28,8 @@ juska.soljento@helsinki.fi &#124; +358 40 547 2163
 
 `2016–2020`
 **BSc, Theoretical Physics (Physics and Mathematics minors)**, *University of Helsinki*, Helsinki, Finland.
+
+
 
 ## Experience
 
@@ -40,6 +44,8 @@ juska.soljento@helsinki.fi &#124; +358 40 547 2163
 
 `2019`
 **Private Tutor (Physics and Mathematics)**, *Uplus Oy*, Helsinki, Finland.
+
+
 
 ## Publications
 
@@ -58,10 +64,6 @@ D. E. Morosan, E. Palmerio, **J. E. Räsänen**, E. K. J. Kilpua, J. Magdalenić
 
 
 
-
-
-
-
 ## Grants and funding
 
 `2022`
@@ -69,6 +71,8 @@ D. E. Morosan, E. Palmerio, **J. E. Räsänen**, E. K. J. Kilpua, J. Magdalenić
 
 `2023`
 **Grant for PhD work**, *Finnish Cultural Foundation*, Finland, 28 000€.
+
+
 
 ## Languages
 
