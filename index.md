@@ -3,7 +3,7 @@ layout: cv
 title: Juska Soljento's CV
 ---
 # Juska Soljento
-PhD Researcher, University of Helsinki
+Doctoral Researcher, University of Helsinki
 
 Space Physics Group, Department of Physics<br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
@@ -16,7 +16,6 @@ juska.soljento@helsinki.fi &#124; +358 40 547 2163
   | <a href="https://orcid.org/0000-0003-2495-8881"><i class="fa-brands fa-orcid"></i> 0000-0003-2495-8881</a>
 </div>
 
-
 ## Education
 
 `2021–present`
@@ -27,7 +26,6 @@ juska.soljento@helsinki.fi &#124; +358 40 547 2163
 
 `2016–2020`
 **BSc, Theoretical Physics (Physics and Mathematics minors)**, *University of Helsinki*, Helsinki, Finland.
-
 
 ## Experience
 
@@ -42,7 +40,6 @@ juska.soljento@helsinki.fi &#124; +358 40 547 2163
 
 `2019`
 **Private Tutor (Physics and Mathematics)**, *Uplus Oy*, Helsinki, Finland.
-
 
 ## Publications
 
@@ -60,6 +57,11 @@ D. E. Morosan, **J. E. Räsänen**, A. Kumari, E. K. J. Kilpua, M. M. Bisi, B. D
 D. E. Morosan, E. Palmerio, **J. E. Räsänen**, E. K. J. Kilpua, J. Magdalenić, B. J. Lynch, A. Kumari, J. Pomoell, and M. Palmroth (2020), "Electron Acceleration and Radio Emission Following the Early Interaction of Two Coronal Mass Ejections", *Astronomy & Astrophysics*, **642**, A151, doi: [10.1051/0004-6361/202038801](https://doi.org/10.1051/0004-6361/202038801).
 
 
+
+
+
+
+
 ## Grants and funding
 
 `2022`
@@ -67,7 +69,6 @@ D. E. Morosan, E. Palmerio, **J. E. Räsänen**, E. K. J. Kilpua, J. Magdalenić
 
 `2023`
 **Grant for PhD work**, *Finnish Cultural Foundation*, Finland, 28 000€.
-
 
 ## Languages
 
