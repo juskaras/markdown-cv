@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Juska Soljento's CV
+title: Juska Soljento
 ---
 # Juska Soljento
 Doctoral Researcher, University of Helsinki
